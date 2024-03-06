@@ -1,7 +1,31 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//got help from chatgpt 
+/*
+GOT HELP FROM CHATGPT
+
+RESULT:
+
+Transposed matrix:
+1.000000 4.000000 7.000000 
+2.000000 5.000000 8.000000 
+3.000000 6.000000 9.000000 
+
+Sum of matrices:
+10.000000 10.000000 10.000000 
+10.000000 10.000000 10.000000 
+10.000000 10.000000 10.000000 
+
+Product of matrices:
+30.000000 24.000000 18.000000 
+84.000000 69.000000 54.000000 
+138.000000 114.000000 90.000000 
+
+Reshaped matrix:
+1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 
+
+
+*/
 
 // Function to transpose a matrix
 void transpose(double *input, double *output, int rows, int cols) {
