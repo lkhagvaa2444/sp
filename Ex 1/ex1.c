@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//got help from chatgpt 
+
 // Function to transpose a matrix
 void transpose(double *input, double *output, int rows, int cols) {
     for (int i = 0; i < rows; i++) {
