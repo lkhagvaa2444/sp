@@ -21,7 +21,7 @@ To use the interpreter, follow these steps:
 2. **Run Interpreter**: Execute the interpreter script `interpreter.py` and provide the program file as input.
 
 ```bash
-python interpreter.py <program_file>
+python interpreter.py <program_file.hewei>
 ```
 
 3. **View Output**: The interpreter will execute the program and display the output according to the program's logic.
