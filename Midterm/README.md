@@ -4,6 +4,7 @@ Certainly! Below is a template for your README.md file:
 
 # Simple Stack-based Interpreter
 
+**I used help of CHATGPT**
 This project implements a simple stack-based interpreter for a custom programming language. The interpreter reads programs written in the custom language and executes them sequentially. It supports basic operations such as arithmetic, input/output, and conditional jumps.
 
 ## Features
